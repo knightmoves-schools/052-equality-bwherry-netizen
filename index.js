@@ -1,4 +1,4 @@
-function priceCheck (match == 1.50){
+function priceCheck (match){
     if (match == 1.50) {
         return "match";
     } 
